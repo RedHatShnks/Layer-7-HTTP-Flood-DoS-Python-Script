@@ -4,4 +4,4 @@
 Change the target domain "example.com"
 
 # USAGE :
-python3 saphyra.py
+sudo python3 Service.py
